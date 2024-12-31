@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Develop\\Git\\NET\\affin_api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2650B90F-7155-41FE-B6FC-F72377A6B19A}|affin_api\\affin_api.csproj|c:\\develop\\git\\net\\affin_api\\affin_api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2650B90F-7155-41FE-B6FC-F72377A6B19A}|affin_api\\affin_api.csproj|solutionrelative:affin_api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2650B90F-7155-41FE-B6FC-F72377A6B19A}|affin_api\\affin_api.csproj|c:\\develop\\git\\net\\affin_api\\affin_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2650B90F-7155-41FE-B6FC-F72377A6B19A}|affin_api\\affin_api.csproj|solutionrelative:affin_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Develop\\Git\\NET\\affin_api\\affin_api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "affin_api\\appsettings.Development.json",
+              "ToolTip": "C:\\Develop\\Git\\NET\\affin_api\\affin_api\\appsettings.Development.json",
+              "RelativeToolTip": "affin_api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-30T22:34:53.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Develop\\Git\\NET\\affin_api\\affin_api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "affin_api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Develop\\Git\\NET\\affin_api\\affin_api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "affin_api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-30T21:38:24.193Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

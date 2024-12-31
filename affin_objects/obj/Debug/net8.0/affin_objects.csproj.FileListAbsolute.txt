@@ -1,0 +1,11 @@
+C:\Develop\Git\NET\affin_api\affin_objects\bin\Debug\net8.0\affin_objects.deps.json
+C:\Develop\Git\NET\affin_api\affin_objects\bin\Debug\net8.0\affin_objects.dll
+C:\Develop\Git\NET\affin_api\affin_objects\bin\Debug\net8.0\affin_objects.pdb
+C:\Develop\Git\NET\affin_api\affin_objects\obj\Debug\net8.0\affin_objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Develop\Git\NET\affin_api\affin_objects\obj\Debug\net8.0\affin_objects.AssemblyInfoInputs.cache
+C:\Develop\Git\NET\affin_api\affin_objects\obj\Debug\net8.0\affin_objects.AssemblyInfo.cs
+C:\Develop\Git\NET\affin_api\affin_objects\obj\Debug\net8.0\affin_objects.csproj.CoreCompileInputs.cache
+C:\Develop\Git\NET\affin_api\affin_objects\obj\Debug\net8.0\affin_objects.dll
+C:\Develop\Git\NET\affin_api\affin_objects\obj\Debug\net8.0\refint\affin_objects.dll
+C:\Develop\Git\NET\affin_api\affin_objects\obj\Debug\net8.0\affin_objects.pdb
+C:\Develop\Git\NET\affin_api\affin_objects\obj\Debug\net8.0\ref\affin_objects.dll
